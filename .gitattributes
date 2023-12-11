@@ -1,0 +1,14 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis filter=lfs diff=lfs merge=lfs -text
+Dataset filter=lfs diff=lfs merge=lfs -text
+Dataset/Datafiniti_Fast_Food_Restaurants.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/ECommerce_consumer[[:space:]]behaviour.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/SampleSuperstore.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/itemsets.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/aisles.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/departments.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/order_products__prior.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/order_products__train.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/orders.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/instacart-market-basket-analysis/products.csv filter=lfs diff=lfs merge=lfs -text
